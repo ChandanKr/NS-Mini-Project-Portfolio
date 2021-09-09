@@ -1,0 +1,59 @@
+/* Home */
+#home{
+    height: 820px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+#home::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url('images/chandan1.png') no-repeat center ;
+    background-size: cover;
+    background-position: center;
+    /* height:700px; */
+    width: 100%;
+    z-index: -1;
+    /* opacity: .8; */
+}
+.main span{
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    margin-right: 35px;
+}
+.main h1{
+    color: black;
+    font-weight: bold;
+    margin-top: 260px;
+    margin-right: 35px;
+}
+
+/* About */
+#pic img{
+    width: 300px;
+    height: 175px;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+
+
+/* Tech-skills */
+.gallery img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+
+/* Contact */
+.input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+#send{
+    width: 20%;
+}
