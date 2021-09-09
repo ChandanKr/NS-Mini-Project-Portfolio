@@ -4,7 +4,7 @@
   
 # # Mini Project - Portfolio
 
--- This is my first mini project which consists of about myself, my technical knowledge, services I can provide and the contact section.
+--> This is my first mini project which consists of about myself, my technical knowledge, services I can provide and the contact section.
 
 ## Specific Features:
 
@@ -28,19 +28,19 @@
   
 ## Deployment & Hosting:
 
--- To deploy this project run, I have used [Netlify.com](https://www.netlify.com/).
+--> To deploy this project run, I have used [Netlify.com](https://www.netlify.com/).
 
 ## Demo of the Project:
--- [Portfolio](https://chandan-portfolioo.netlify.app/) by Chandan Kumar.
+--> [Portfolio](https://chandan-portfolioo.netlify.app/) by Chandan Kumar.
 
   
 ## Optimizations & Future Scope
 
--- I will use javascript to make the elements more interactive. There will be more sections like EDUCATIONAL QUALIFICATIONS, documentations like resume and many more things. The navbar, I will definitely going to work on it.
+--> I will use javascript to make the elements more interactive. There will be more sections like EDUCATIONAL QUALIFICATIONS, documentations like resume and many more things. The navbar, I will definitely going to work on it.
   
 ## Feedbacks/Suggestions (if any):
 
--- If you have any feedback or any suggestion regarding this project, please reach out to me at krchandan0626@gmail.com
+--> If you have any feedback or any suggestion regarding this project, please reach out to me at krchandan0626@gmail.com
 
   
 ## 🔗 Contact Me:
@@ -50,7 +50,7 @@
   
 ## License:
 
--- [MIT](https://choosealicense.com/licenses/mit/)
+--> [MIT](https://choosealicense.com/licenses/mit/)
 
   
 ## Acknowledgements:
