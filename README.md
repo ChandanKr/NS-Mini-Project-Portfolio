@@ -56,8 +56,8 @@
 ## Acknowledgements:
 
  - [Mentor - Ankeet Kumar Hanny](https://www.linkedin.com/in/ankeethanny007/) 
- - [W3School](https://www.w3schools.com/)
  - [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS)
  - [Code with Harry](https://www.codewithharry.com/videos/web-development-in-hindi-1)
+ - [W3School](https://www.w3schools.com/)
  - [YouTube](https://www.youtube.com/)
   
