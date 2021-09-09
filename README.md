@@ -30,6 +30,9 @@ This is my first mini project which consists of about myself, my technical knowl
 
 To deploy this project run, I have used [Netlify.com](https://www.netlify.com/).
 
+## Demo of the Project:
+[Portfolio](https://chandan-portfolioo.netlify.app/) by Chandan Kumar.
+
   
 ## Optimizations & Future Scope
 
