@@ -2,7 +2,7 @@
 # Hi, I'm Chandan Kumar ! 👋
 
   
-# # Mini Project - Portfolio
+## Mini Project - Portfolio
 --> Hosted Project Link -->[ https://chandan-portfolioo.netlify.app/](https://chandan-portfolioo.netlify.app/)
 
 --> This is my first mini project which consists of about myself, my technical knowledge, services I can provide and the contact section.
